@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+  background-image: url('https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?cs=srgb&dl=pexels-jplenio-1118873.jpg&fm=jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App {
+  text-align: center;
+  color: rgb(238, 231, 231);
+}
+
+input {
+  padding: 12px;
+  width: 300px;
+  font-size: 18px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  margin-right: 10px;
+  background-color: rgba(34, 33, 33, 0.795); 
+  color: white;
+}
+.head{
+  color: rgba(47, 91, 202, 0.76);
+  text-align: center;
+  font-size: 55px;
+  font-weight: bolder;
+}
+
+.subHead{
+  color: rgba(247, 235, 75, 0.705);
+}
+
+button {
+  padding: 8px 20px;
+  background-color: rgb(199, 163, 5); 
+  color: rgb(14, 12, 12);
+  font-size: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgba(8, 8, 8, 0.6);
+  color: white;
+}
+
+.card {
+  background: linear-gradient(to right, rgba(247, 203, 10, 0.678), rgba(0, 60, 255, 0.315));
+  padding: 20px;
+  border-radius: 15px;
+  color: white;
+  margin-top: 20px;
+  text-align: center;
+  align-items: center;
+}
+
+.card h2 {
+  font-size: 24px;
+  margin: 0;
+}
+
+.card p {
+  font-size: 18px;
+  margin: 10px 0 0 0;
+}
