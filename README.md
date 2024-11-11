@@ -14,4 +14,4 @@ The Weather App is a dynamic application built with React that allows users to c
 **Deployed Link**:  
 You can check out the live version of the Weather App here: [Weather App Live](https://weather-app-one-omega-45.vercel.app/).
 
-![Weather App Screenshot](./weather-app-screenshot.jpeg)
+![Weather App Screenshot](./weather-screenshot.jpeg)
